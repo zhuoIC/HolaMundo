@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">HolaMundo</string>
+    <string name="message"> ﻿       ⁔ .⋅⋅.⋅⋅.⋅⋅,             ☀</string>
+    <string name="s_message">      ⁔⧸━┱──────    ⋱</string>
+    <string name="t_message">    ⁔⧸˭  ┃           ⦚</string>
+    <string name="f_message"> ⁔⧸˭  ┃           ꆜ</string>
+    <string name="fv_message"> ┳┳┳┳┳┳┳┳╋┳┳┳┓ᔿᔿᔿᔿᔿᔿᔿᔿᔿᔿᔿᔿᔿᔿᔿᔿ┏┳┳┳┳┳ </string>
+    <string name="sx_message">                         </string>
 </resources>
